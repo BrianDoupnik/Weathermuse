@@ -85,7 +85,7 @@ stations = {"Cozy Fireplace" :      "39031",
 
 
                 # energy ->
-stationMatrix = [["Cozy Fireplace",     "Disney",       "Kids Pop",             "Surf Songs",   "Pop Latin" ],   
+stationMatrix = [["Cozy Fireplace",     "Surf Songs",   "Disney",               "Kids Pop",     "Pop Latin" ],   
                  ["Acoustic Afternoon", "Gospel",       "Summer Afternoon",     "Func",         "Disco"     ],   
                  ["Indie",              "Folk",         "Classical",            "Pop",          "Dubstep"   ],   #   ^
                  ["Country Blues",      "Country",      "Jazz",                 "Film Scores",  "Hip Hop"   ],   #   |
